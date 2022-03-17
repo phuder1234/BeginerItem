@@ -20,3 +20,4 @@ he will summon eye of cthulu to fight with him,also gain great amount of defense
 powerful accessory that support range and summoner player. you can summon this thing by using CallofJoy (1 tomestone and 1 piano,craft at
 workbench)
 0.10 = now the two boss of this mod appear in boss checklist. i am working on their new sprite , will be done soon
+0.11 = add four new weapon. i am starting to make a true progression for this mod,that way player can actually enjoy it
