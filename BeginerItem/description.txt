@@ -1,0 +1,22 @@
+Beginer Item is NOt a curse mod. Because i am just a novice modder and try to... create a unique but simple Ai for the boss,and because i am 
+so bad at sprite boss and item. It will be update in the future, because it is a mod aim to help at the begining of your jouney,with easy 
+ potion crafting recipe, and a powerful Town Npc to protect your town while also sell pretty good supply. and about the boss...fight it 
+if you want. it drop VinhGift,a powerful melee and magic accessory. To summon the boss,Craft the item CallTheDespair(gel and wood).(note : the boss look
+really...stupid,and it is very difficuft to fight agianst it in expertmode,so prepare well before you fight it)
+
+0.2 = Change spirte for the boss,and add one more behavior
+0.3 = add more behavior for boss (it will shoot more funny thing,but it will has less hp)
+0.4 = Add CoralBow (Craft from Coral and coweb) and a PIckAxe? (it is both,and it can be craft with Ruby and cobweb,also it pretty fast,so it
+will help you speed up your progress early game
+0.5 = add new accessory 'VinhGift' ,Drop only when you defeat Vinh on expertmode. it will giant a huge boost to your melee and magic stats,
+increase minion slot. But Vinh also get buffed . You must worthy enough to have this accessory
+0.6 = Vinh now have 4 different phrase : the first one,he will fly toward you ,then if you too far from him,he will stop and shoot some
+random projectile,then repeat. the second phrase occur when he 50% or less HP,he will rapidly shoot laserbeam,also gain a bit of defense, but he will fix himself in the
+sky. the third phrase is when he has 20% hp or less,he will gain a lot of DEF and fly faster. The last phrase is when his hp is 10% or less,
+he will summon eye of cthulu to fight with him,also gain great amount of defense.
+0.7 = add new 1 projectile,1 ammo, and 1 buff
+0.8 = add new lore to Beginner helper,the town npc of this mod,also make him sell more loot,and he also has a new buff button
+0.9 = add 1 new boss,Tian. he has a complely different Ai from Vinh when down to 50% health and drop 1 TianGift in Expertmode,which is a very
+powerful accessory that support range and summoner player. you can summon this thing by using CallofJoy (1 tomestone and 1 piano,craft at
+workbench)
+0.10 = now the two boss of this mod appear in boss checklist. i am working on their new sprite , will be done soon

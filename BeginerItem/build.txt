@@ -1,0 +1,3 @@
+displayName = Beginer Item
+author = Vu Truong Phu
+version = 1.0
